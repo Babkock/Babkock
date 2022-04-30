@@ -9,5 +9,4 @@ I am a self-taught programmer and computer scientist. I work in the languages of
 * [GitLab](https://gitlab.com/Babkock/)
 * [My Music](https://eraseseraser.bandcamp.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babkock&layout=compact&custom_title=Skills%20In%20These%20Languages)](https://gitlab.com/Babkock/)
 
