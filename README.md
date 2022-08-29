@@ -2,7 +2,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Babkock&theme=onedark&count_private=true&border_radius=0&custom_title=10%2b%20Years%20Programming%20Experience&show_icons=true&include_all_commits=true&bg_color=DEG,121212,232323">](https://metrics.lecoq.io/Babkock?template=classic)
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,emacs,git,gitlab,gtk,html,java,linux,mysql,nginx,nodejs,php,ps,py,qt,rust,sass,vim,vue,webpack&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,emacs,git,github,gitlab,gtk,html,java,js,linux,mysql,nginx,nodejs,php,ps,py,qt,rust,sass,vim,vue,webpack,wordpress&perline=7)](https://skillicons.dev)
 
 I am a self-taught programmer and computer scientist. I work in the languages of C, C++, JavaScript, PHP, Python, and Rust, and I use Void Linux as a daily driver. I'm also an artist.
 
