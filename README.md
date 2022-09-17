@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,emacs,git,github,gitlab,gtk,html,java,js,linux,mysql,nginx,nodejs,php,ps,py,qt,rust,sass,vim,vue,webpack,wordpress&perline=7)](https://skillicons.dev)
 
-I am a self-taught programmer and computer scientist. I work in the languages of C, C++, JavaScript, PHP, Python, and Rust, and I use Void Linux as a daily driver. I'm also an artist, YouTuber, and Twitch streamer, and I manage a small record label. Almost all of my GitHub repositories are archived, please see my [GitLab](https://gitlab.com/Babkock/) for up-to-date repositories. Despite this I still check GitHub every day, and make pull requests.
+I am a self-taught programmer and computer scientist. I work in the languages of C, C++, JavaScript, PHP, Python, and Rust, and I use Void Linux as a daily driver. I am also fluent in Java, HTML/CSS, MySQL, and Bash shell. I'm also an artist, YouTuber, and Twitch streamer, and I manage a small record label. Almost all of my GitHub repositories are archived, please see my [GitLab](https://gitlab.com/Babkock/) for up-to-date repositories. Despite this I still check GitHub every day, and make pull requests.
 
 You can see my [web development homework](https://tannerbabcock.com/homework/index) live on my website.
 
@@ -15,14 +15,14 @@ You can see my [web development homework](https://tannerbabcock.com/homework/ind
 * [Twitch](https://www.twitch.tv/babkock)
 * [Letterboxd](https://letterboxd.com/babkock/)
 
-## My Music:
+## My Music
 
 * [Erases Eraser](https://open.spotify.com/artist/3qysccskvwTB7ozJ0ojOTP) *([Bandcamp](https://eraseseraser.bandcamp.com/))*
 * [Tantrum Throwers](https://open.spotify.com/artist/6x2K3JghRnqnFdg07SkrN3) *([Bandcamp](https://tantrumthrowers.bandcamp.com/))*
 * [Culture Chester](https://open.spotify.com/artist/6id1ZGp3lQNo11vRjEXGlo) *([Bandcamp](https://culturechester.bandcamp.com/))*
 * [Records Recordings](https://recordsrecordings.bandcamp.com/)
 
-## Courses:
+## Courses
 
 * [Intro to HTML and CSS](https://gitlab.com/tbhomework/homework/-/tree/master/wdv101) *([live](https://tannerbabcock.com/homework/index?c=wdv101))*
 * [Advanced CSS](https://gitlab.com/tbhomework/homework/-/tree/master/wdv205) *([live](https://tannerbabcock.com/homework/index?c=wdv205))*
