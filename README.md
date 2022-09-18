@@ -22,6 +22,7 @@ You can see my [web development homework](https://tannerbabcock.com/homework/ind
 * [Culture Chester](https://open.spotify.com/artist/6id1ZGp3lQNo11vRjEXGlo) *([Bandcamp](https://culturechester.bandcamp.com/))*
 * [Records Recordings](https://recordsrecordings.bandcamp.com/)
 
+<div dir="ltr">
 ## Courses
 
 * [Intro to HTML and CSS](https://gitlab.com/tbhomework/homework/-/tree/master/wdv101) *([live](https://tannerbabcock.com/homework/index?c=wdv101))*
