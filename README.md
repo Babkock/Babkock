@@ -10,6 +10,7 @@ You can see my [web development homework](https://tannerbabcock.com/homework/ind
 
 * [Website](https://tannerbabcock.com/home)
 * [Dotfiles](https://gitlab.com/Babkock/Dotfiles)
+* [GitHub Pages](https://babkock.github.io)
 * [GitLab](https://gitlab.com/Babkock/)
 * [YouTube](https://www.youtube.com/channel/UCdXmrPRUtsl-6pq83x3FrTQ)
 * [Twitch](https://www.twitch.tv/babkock)
