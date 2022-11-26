@@ -2,7 +2,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Babkock&theme=onedark&count_private=true&border_radius=0&custom_title=10%2b%20Years%20Programming%20Experience&show_icons=true&include_all_commits=true&bg_color=DEG,121212,232323">](https://metrics.lecoq.io/Babkock?template=classic)
 
-[![My Skills](https://skillicons.dev/icons?i=ableton,atom,aws,bash,bootstrap,c,cloudflare,cpp,css,emacs,git,github,gitlab,gtk,html,ai,java,jquery,js,linux,mongodb,mysql,nginx,nodejs,php,ps,py,qt,raspberrypi,rust,sass,sqlite,ts,vim,vue,webpack,wordpress&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ableton,atom,aws,bash,bootstrap,c,cloudflare,cpp,css,emacs,git,github,gitlab,gtk,html,ai,java,jquery,js,laravel,linux,mongodb,mysql,nginx,nodejs,php,ps,py,qt,raspberrypi,react,rust,sass,sqlite,ts,vim,vue,webpack,wordpress&perline=7)](https://skillicons.dev)
 
 Do you like my work? Please follow me and [sponsor me](https://github.com/sponsors/Babkock)! Or you can [donate to me](https://tannerbabcock.com/donate) directly.
 
