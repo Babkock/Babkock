@@ -34,5 +34,5 @@ You can see my [web development homework](https://tannerbabcock.com/homework/ind
 * [Intro to PHP](https://gitlab.com/tbhomework/homework/-/tree/master/wdv341) *([live](https://tannerbabcock.com/homework/index?c=wdv341))* - *([Final Project](https://tannerbabcock.com/homework/wdv341/wax/index))*
 * [Python](https://gitlab.com/tbhomework/python)
 * [Advanced C++](https://gitlab.com/tbhomework/cis164) - *([Group Project](https://github.com/naertz/CasualMockSkirmish))*
-* [Data Structures](https://gitlab.com/tbhomework/cis152)
+* [Data Structures](https://gitlab.com/tbhomework/cis152) - *([Final Project](https://github.com/Babkock/VideoStore))*
 
