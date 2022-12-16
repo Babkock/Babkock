@@ -11,7 +11,6 @@ I am a self-taught programmer and computer scientist. I work in the languages of
 You can see my [web development homework](https://tannerbabcock.com/homework/index) live on my website. Since 2022 I have been making videos for YouTube and streaming on Twitch.
 
 * [Website](https://tannerbabcock.com/home)
-* [Dotfiles](https://gitlab.com/Babkock/Dotfiles)
 * [GitHub Pages](https://babkock.github.io)
 * [GitLab](https://gitlab.com/Babkock/)
 * [YouTube](https://www.youtube.com/channel/UCdXmrPRUtsl-6pq83x3FrTQ)
@@ -27,12 +26,12 @@ You can see my [web development homework](https://tannerbabcock.com/homework/ind
 
 ## Courses
 
-* [Intro to HTML and CSS](https://gitlab.com/tbhomework/homework/-/tree/master/wdv101) *([live](https://tannerbabcock.com/homework/index?c=wdv101))*
-* [Advanced CSS](https://gitlab.com/tbhomework/homework/-/tree/master/wdv205) *([live](https://tannerbabcock.com/homework/index?c=wdv205))*
-* [Intro to JavaScript](https://gitlab.com/tbhomework/homework/-/tree/master/wdv221) *([live](https://tannerbabcock.com/homework/index?c=wdv221))*
-* [Advanced JavaScript](https://gitlab.com/tbhomework/homework/-/tree/master/wdv321) *([live](https://tannerbabcock.com/homework/index?c=wdv321))* - *([Final Project](https://tannerbabcock.com/homework/wdv321/recipes/home.html))*
-* [Intro to PHP](https://gitlab.com/tbhomework/homework/-/tree/master/wdv341) *([live](https://tannerbabcock.com/homework/index?c=wdv341))* - *([Final Project](https://tannerbabcock.com/homework/wdv341/wax/index))*
+* [Intro to HTML and CSS](https://github.com/Babkock/homework/tree/master/wdv101) *([live](https://tannerbabcock.com/homework/index?c=wdv101))*
+* [Advanced CSS](https://github.com/Babkock/homework/tree/master/wdv205) *([live](https://tannerbabcock.com/homework/index?c=wdv205))*
+* [Intro to JavaScript](https://github.com/Babkock/homework/tree/master/wdv221) *([live](https://tannerbabcock.com/homework/index?c=wdv221))*
+* [Advanced JavaScript](https://github.com/Babkock/homework/tree/master/wdv321) *([live](https://tannerbabcock.com/homework/index?c=wdv321))* - *([Final Project](https://tannerbabcock.com/homework/wdv321/recipes/home.html))*
+* [Intro to PHP](https://github.com/Babkock/homework/tree/master/wdv341) *([live](https://tannerbabcock.com/homework/index?c=wdv341))* - *([Final Project](https://tannerbabcock.com/homework/wdv341/wax/index))*
 * [Python](https://gitlab.com/tbhomework/python)
-* [Advanced C++](https://gitlab.com/tbhomework/cis164) - *([Group Project](https://github.com/naertz/CasualMockSkirmish))*
-* [Data Structures](https://gitlab.com/tbhomework/cis152) - *([Final Project](https://github.com/Babkock/VideoStore))*
+* [Advanced C++](https://github.com/Babkock/cis164) - *([Group Project](https://github.com/naertz/CasualMockSkirmish))*
+* [Data Structures](https://github.com/Babkock/cis152) - *([Final Project](https://github.com/Babkock/VideoStore))*
 
