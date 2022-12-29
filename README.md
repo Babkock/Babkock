@@ -2,7 +2,11 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Babkock&theme=onedark&count_private=true&border_radius=0&custom_title=10%2b%20Years%20Programming%20Experience&show_icons=true&include_all_commits=true&bg_color=DEG,121212,232323">](https://metrics.lecoq.io/Babkock?template=classic)
 
-[![My Skills](https://skillicons.dev/icons?i=ableton,aws,bash,bootstrap,c,cloudflare,cpp,css,drupal,emacs,git,github,gitlab,html,ai,java,jquery,js,linux,mongodb,mysql,nginx,nodejs,php,ps,py,qt,react,rust,sass,sqlite,ts,vim,vue,webpack,wordpress&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ableton,aws,bash,bootstrap,c,cloudflare,cpp,css,emacs,git,github,gitlab,html,ai,java,jquery,js,linux,mongodb,mysql,nginx,nodejs,php,ps,py,qt,react,rust,sass,sqlite,ts,vim,vue,webpack,wordpress&perline=7)](https://skillicons.dev)
+
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://www.github.com/sponsors/Babkock)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/babkock)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://tannerbabcock.com/donate)
 
 Do you like my work? Please follow me and [sponsor me](https://github.com/sponsors/Babkock)! Or you can [donate to me](https://tannerbabcock.com/donate) directly.
 
