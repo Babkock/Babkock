@@ -4,10 +4,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ableton,aws,bash,bootstrap,c,cloudflare,cpp,css,emacs,git,github,gitlab,html,ai,java,jquery,js,linux,mongodb,mysql,nginx,nodejs,php,ps,py,qt,react,rust,sass,sqlite,ts,vim,vue,webpack,wordpress&perline=7)](https://skillicons.dev)
 
-[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://www.github.com/sponsors/Babkock)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/babkock)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://tannerbabcock.com/donate)
-
 Do you like my work? Please follow me and [sponsor me](https://github.com/sponsors/Babkock)! Or you can [donate to me](https://tannerbabcock.com/donate) directly.
 
 I am a self-taught programmer and computer scientist. I work in the languages of C, C++, JavaScript, PHP, Python, and Rust, and I use Void Linux as a daily driver. I am also fluent in Java, HTML/CSS, MySQL, and Bash shell. I maintain [my own website](https://tannerbabcock.com/home) I'm also an artist, YouTuber, and Twitch streamer, and I manage a small record label. This document has all of my social media links, links to my music projects, and links to my Dotfiles. Most of my repositories are mirrored on my [GitLab](https://www.gitlab.com/Babkock/).
