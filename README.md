@@ -1,12 +1,12 @@
 # Tanner Babcock
 
-[<img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=Babkock&theme=onedark&count_private=true&border_radius=0&custom_title=10%2b%20Years%20Programming%20Experience&show_icons=true&include_all_commits=true&bg_color=DEG,121212,232323">](https://metrics.lecoq.io/Babkock?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Babkock&theme=onedark&count_private=true&border_radius=0&custom_title=10%2b%20Years%20Programming%20Experience&show_icons=true&include_all_commits=true&bg_color=DEG,121212,232323">](https://metrics.lecoq.io/Babkock?template=classic)
 
 [![My Skills](https://skillicons.dev/icons?i=ableton,aws,bash,bootstrap,c,cloudflare,cpp,css,emacs,git,github,gitlab,html,ai,java,jquery,js,linux,mysql,nginx,nodejs,php,ps,py,qt,rust,sass,sqlite,ts,vim,webpack,wordpress&perline=7)](https://skillicons.dev)
 
 [<img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Babkock&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Tanner Babcock Top Languages" />](https://github.com/Babkock?tab=repositories)
 
-[![Tanner Babcock StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=913182&theme=dark)](https://stackoverflow.com/users/913182/tanner-babcock)
+[![Tanner Babcock StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=913182&theme=dark)](https://stackoverflow.com/users/913182/tanner-babcock?tab=profile)
 
 
 Do you like my work? Please follow me and [sponsor me](https://github.com/sponsors/Babkock)! Or you can [donate to me](https://tannerbabcock.com/donate) directly.
