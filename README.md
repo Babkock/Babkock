@@ -39,7 +39,7 @@ These are the repositories, (some with live websites) for the college courses I 
 * [Intro to JavaScript](https://github.com/Babkock/homework/tree/master/wdv221) *([live](https://tannerbabcock.com/homework/index?c=wdv221))*
 * [Advanced JavaScript](https://github.com/Babkock/homework/tree/master/wdv321) *([live](https://tannerbabcock.com/homework/index?c=wdv321))* - *([Final Project](https://tannerbabcock.com/homework/wdv321/recipes/home.html))*
 * [Intro to PHP](https://github.com/Babkock/homework/tree/master/wdv341) *([live](https://tannerbabcock.com/homework/index?c=wdv341))* - *([Final Project](https://tannerbabcock.com/homework/wdv341/wax/index))*
-* [Python](https://github.com/tbhomework/python)
+* [Python](https://github.com/Babkock/python)
 * [Advanced C++](https://github.com/Babkock/cis164) - *([Group Project](https://github.com/naertz/CasualMockSkirmish))*
 * [Data Structures](https://github.com/Babkock/cis152) - *([Final Project](https://github.com/Babkock/VideoStore))*
 
