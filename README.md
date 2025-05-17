@@ -43,5 +43,12 @@ These are the repositories, (some with live websites) for the college courses I 
 * [Advanced C++](https://github.com/Babkock/cis164) - *([Group Project](https://github.com/naertz/CasualMockSkirmish))*
 * [Data Structures](https://github.com/Babkock/cis152) - *([Final Project](https://github.com/Babkock/VideoStore))*
 
+## My Contributions
+
+These are popular open source projects on GitHub I have contributed to.  If you don't believe me, you can look at the lists of contributors.
+
+* [nnn](https://github.com/jarun/nnn)
+* [LSD](https://github.com/lsd-rs/lsd)
+
 <!-- <a rel="me" href="https://fosstodon.org/@babkock">Mastodon</a> -->
 
