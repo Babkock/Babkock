@@ -16,7 +16,13 @@ I am a self-taught programmer and computer scientist, currently in the Denver, C
 You can see my [web development homework](https://tannerbabcock.com/homework/index) live on my website. Since 2022 I have been making videos for YouTube.
 
 <p style="text-align:center" align="center">
-**[Website](https://tannerbabcock.com)** | **[YouTube](https://www.youtube.com/channel/UCdXmrPRUtsl-6pq83x3FrTQ)**
+<a href="https://tannerbabcock.com/home" target="_blank"><b>Website</b></a> &bull;
+<a href="https://www.youtube.com/channel/UCdXmrPRUtsl-6pq83x3FrTQ" target="_blank"><b>YouTube</b></a> &bull;
+<a href="https://babkock.github.io" target="_blank"><b>GitHub Pages</b></a> &bull;
+<a href="https://gitlab.com/Babkock/" target="_blank"><b>GitLab</b></a> &bull;
+<a href="https://www.twitch.tv/babkock" target="_blank"><b>Twitch</b></a> &bull;
+<a href="https://letterboxd.com/babkock/" target="_blank"><b>Letterboxd</b></a> &bull;
+<a href="https://tannerbabcock.tumblr.com" target="_blank"><b>Tumblr</b></a>
 </p>
 
 * [Website](https://tannerbabcock.com/home)
