@@ -11,9 +11,9 @@
 
 Do you like my work? Please follow me and [sponsor me](https://github.com/sponsors/Babkock)! Or you can [donate to me](https://tannerbabcock.com/donate) directly.
 
-I am a self-taught programmer and computer scientist, currently in the Denver, Colorado metro area. I work in the languages of C, C++, JavaScript, PHP, Python, and Rust, and I use Void Linux as a daily driver. I am also fluent in Java, HTML/CSS, MySQL, and Bash shell. I maintain [my own website](https://tannerbabcock.com/home). I'm also an artist, YouTuber, and hiker. This document has all of my social media links, links to my music projects, and links to my Dotfiles. Most of my repositories are mirrored on my [GitLab](https://www.gitlab.com/Babkock/).
+I am a self-taught programmer and computer scientist, currently in the Denver, Colorado metro area. I work in the languages of C, C++, JavaScript, PHP, Python, and Rust, and I use Void Linux as a daily driver. I am also fluent in Java, HTML/CSS, MySQL, and Bash shell. I maintain [my own website](https://tannerbabcock.com/home). I'm also an artist, musician, YouTuber, and hiker. This document has all of my social media links, links to my music projects, and links to my Dotfiles. Most of my repositories are mirrored on my [GitLab](https://www.gitlab.com/Babkock/).
 
-You can see my [web development homework](https://tannerbabcock.com/homework/index) live on my website. Since 2022 I have been making videos for YouTube.
+You can see my [web development homework](https://tannerbabcock.com/homework/index) live on my website, and browse its [source code here](https://github.com/Babkock/homework). Since 2022 I have been making videos for YouTube.
 
 <p style="text-align:center" align="center">
 <a href="https://tannerbabcock.com/home" target="_blank"><b>Website</b></a> &bull;
@@ -24,23 +24,21 @@ You can see my [web development homework](https://tannerbabcock.com/homework/ind
 <a href="https://letterboxd.com/babkock/" target="_blank"><b>Letterboxd</b></a> &bull;
 <a href="https://tannerbabcock.tumblr.com" target="_blank"><b>Tumblr</b></a>
 </p>
-
-* [Website](https://tannerbabcock.com/home)
-* [GitLab](https://gitlab.com/Babkock/)
-* [YouTube](https://www.youtube.com/channel/UCdXmrPRUtsl-6pq83x3FrTQ)
-* [Twitch](https://www.twitch.tv/babkock)
-* [Letterboxd](https://letterboxd.com/babkock/)
-* [Tumblr](https://tannerbabcock.tumblr.com)
+<p style="text-align:center" align="center">
+<a href="https://github.com/Babkock/Dotfiles"><b>Dotfiles</b></a>
+<a href="https://github.com/Babkock/homework"><b>Homework</b></a>
+<a href="https://tannerbabcock.com/donate"><b>Donate</b></a>
+</p>
 
 ## My Music
 
 All of my music is available on Spotify, Apple Music, Deezer, and other streaming platforms. If you would like to download (or optionally, purchase) any of my albums, you can do so on Bandcamp.
 
-* [Erases Eraser](https://open.spotify.com/artist/3qysccskvwTB7ozJ0ojOTP) *([Bandcamp](https://eraseseraser.bandcamp.com/))*
-* [Tantrum Throwers](https://open.spotify.com/artist/6x2K3JghRnqnFdg07SkrN3) *([Bandcamp](https://tantrumthrowers.bandcamp.com/))*
-* [Culture Chester](https://open.spotify.com/artist/6id1ZGp3lQNo11vRjEXGlo) *([Bandcamp](https://culturechester.bandcamp.com/))*
+* **[Erases Eraser](https://open.spotify.com/artist/3qysccskvwTB7ozJ0ojOTP)** *([Bandcamp](https://eraseseraser.bandcamp.com/))*
+* **[Tantrum Throwers](https://open.spotify.com/artist/6x2K3JghRnqnFdg07SkrN3)** *([Bandcamp](https://tantrumthrowers.bandcamp.com/))*
+* **[Culture Chester](https://open.spotify.com/artist/6id1ZGp3lQNo11vRjEXGlo)** *([Bandcamp](https://culturechester.bandcamp.com/))*
 
-## Courses
+## My Courses
 
 These are the repositories, (some with live websites) for the college courses I have completed. All the source code for my final projects and collaborations are available here.
 
