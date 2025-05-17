@@ -47,8 +47,9 @@ These are the repositories, (some with live websites) for the college courses I 
 
 These are popular open source projects on GitHub I have contributed to.  If you don't believe me, you can look at the lists of contributors.
 
-* [nnn](https://github.com/jarun/nnn)
-* [LSD](https://github.com/lsd-rs/lsd)
+* **[nnn](https://github.com/jarun/nnn)** - minimalist keyboard-based file browser and picker
+* **[LSD](https://github.com/lsd-rs/lsd)** - upgraded `ls` command with wings
+* **[CasualMockSkirmish](https://github.com/naertz/CasualMockSkirmish)** - turn-based fantasy combat game
 
 <!-- <a rel="me" href="https://fosstodon.org/@babkock">Mastodon</a> -->
 
