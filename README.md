@@ -8,12 +8,9 @@
 
 [![Tanner Babcock StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=913182&theme=dark)](https://stackoverflow.com/users/913182/tanner-babcock?tab=profile)
 
-
-Do you like my work? Please follow me and [sponsor me](https://github.com/sponsors/Babkock)! Or you can [donate to me](https://tannerbabcock.com/donate) directly.
-
 I am a self-taught programmer and computer scientist, currently in the Denver, Colorado metro area. I work in the languages of C, C++, JavaScript, PHP, Python, and Rust, and I use Void Linux as a daily driver. I am also fluent in Java, HTML/CSS, MySQL, and Bash shell. I maintain [my own website](https://tannerbabcock.com/home). I'm also an artist, musician, YouTuber, and hiker. This document has all of my social media links, links to my music projects, and links to my Dotfiles. Most of my repositories are mirrored on my [GitLab](https://www.gitlab.com/Babkock/).
 
-You can see my [web development homework](https://tannerbabcock.com/homework/index) live on my website, and browse its [source code here](https://github.com/Babkock/homework). Since 2022 I have been making videos for YouTube.
+You can see my [web development homework](https://tannerbabcock.com/homework/index) live on my website, and browse its [source code here](https://github.com/Babkock/homework). Since 2022 I have been making videos for YouTube. Do you like my work? Please follow me and [sponsor me](https://github.com/sponsors/Babkock)! Or you can [donate to me](https://tannerbabcock.com/donate) directly.
 
 <p style="text-align:center" align="center">
 <a href="https://tannerbabcock.com/home" target="_blank"><b>Website</b></a> &bull;
@@ -25,9 +22,9 @@ You can see my [web development homework](https://tannerbabcock.com/homework/ind
 <a href="https://tannerbabcock.tumblr.com" target="_blank"><b>Tumblr</b></a>
 </p>
 <p style="text-align:center" align="center">
-<a href="https://github.com/Babkock/Dotfiles"><b>Dotfiles</b></a>
-<a href="https://github.com/Babkock/homework"><b>Homework</b></a>
-<a href="https://tannerbabcock.com/donate"><b>Donate</b></a>
+<a href="https://github.com/Babkock/Dotfiles"><b>Dotfiles</b></a> &bull;
+<a href="https://github.com/Babkock/homework"><b>Homework</b></a> &bull;
+<a href="https://tannerbabcock.com/donate"><b>Donate</b></a> &bull;
 </p>
 
 ## My Music
