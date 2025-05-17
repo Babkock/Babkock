@@ -15,7 +15,9 @@ I am a self-taught programmer and computer scientist, currently in the Denver, C
 
 You can see my [web development homework](https://tannerbabcock.com/homework/index) live on my website. Since 2022 I have been making videos for YouTube.
 
-<p style="text-align:center" align="center">**[Website](https://tannerbabcock.com)** | **[YouTube](https://www.youtube.com/channel/UCdXmrPRUtsl-6pq83x3FrTQ)** </p>
+<p style="text-align:center" align="center">
+**[Website](https://tannerbabcock.com)** | **[YouTube](https://www.youtube.com/channel/UCdXmrPRUtsl-6pq83x3FrTQ)**
+</p>
 
 * [Website](https://tannerbabcock.com/home)
 * [GitLab](https://gitlab.com/Babkock/)
