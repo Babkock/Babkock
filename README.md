@@ -24,7 +24,7 @@ You can see my [web development homework](https://tannerbabcock.com/homework/ind
 <p style="text-align:center" align="center">
 <a href="https://github.com/Babkock/Dotfiles"><b>Dotfiles</b></a> &bull;
 <a href="https://github.com/Babkock/homework"><b>Homework</b></a> &bull;
-<a href="https://tannerbabcock.com/donate"><b>Donate</b></a> &bull;
+<a href="https://tannerbabcock.com/donate"><b>Donate</b></a>
 </p>
 
 ## My Music
