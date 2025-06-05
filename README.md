@@ -8,9 +8,11 @@
 
 [![Tanner Babcock StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=913182&theme=dark)](https://stackoverflow.com/users/913182/tanner-babcock?tab=profile)
 
-I am a self-taught programmer and computer scientist, currently in the Denver, Colorado metro area. I work in the languages of C, C++, JavaScript, PHP, Python, and Rust, and I use Void Linux as a daily driver. I am also fluent in Java, HTML/CSS, MySQL, and Bash shell. I maintain [my own website](https://tannerbabcock.com/home). I'm also an artist, musician, YouTuber, and hiker. This document has all of my social media links, links to my music projects, and links to my Dotfiles. Most of my repositories are mirrored on my [GitLab](https://www.gitlab.com/Babkock/).
+I am a self-taught programmer and computer scientist, currently in the Denver, Colorado metro area. I work in the languages of C, C++, JavaScript, PHP, Python, and Rust, and I use Void Linux as a daily driver. I am also fluent in Java, HTML/CSS, MySQL, and Bash shell. I maintain [my own website](https://tannerbabcock.com/home). I'm also an artist, musician, YouTuber, and hiker. This document has all of my social media links, links to my music projects, and links to my Dotfiles. Most of my repositories are mirrored on my [GitLab](https://www.gitlab.com/Babkock/). This is done for privacy purposes as well as testing and development purposes.
 
 You can see my [web development homework](https://tannerbabcock.com/homework/index) live on my website, and browse its [source code here](https://github.com/Babkock/homework). Since 2022 I have been making videos for YouTube. Do you like my work? Please follow me and [sponsor me](https://github.com/sponsors/Babkock)! Or you can [donate to me](https://tannerbabcock.com/donate) directly.
+
+I wrote all of the code for my website myself in PHP, JavaScript, and Vue. Its source code, which is only on GitLab, will never become publicly available for the foreseeable future. My website does not track you, it does not use cookies whatsoever, and it does not bother you with advertisements.
 
 <p style="text-align:center" align="center">
 <a href="https://tannerbabcock.com/home" target="_blank"><b>Website</b></a> &bull;
@@ -55,6 +57,7 @@ These are popular open source projects on GitHub I have contributed to.  If you 
 * **[nnn](https://github.com/jarun/nnn)** - minimalist keyboard-based file browser and picker
 * **[LSD](https://github.com/lsd-rs/lsd)** - upgraded `ls` command with wings
 * **[CasualMockSkirmish](https://github.com/naertz/CasualMockSkirmish)** - turn-based fantasy combat game
+* **[ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons)** - plugin that adds unicode icons to Ranger
 
 <!-- <a rel="me" href="https://fosstodon.org/@babkock">Mastodon</a> -->
 
