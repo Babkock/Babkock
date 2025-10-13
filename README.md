@@ -29,7 +29,7 @@ I wrote all of the code for my website myself in PHP, JavaScript, and Vue. Its s
 <a href="https://tannerbabcock.com/donate"><b>Donate</b></a>
 </p>
 
-## <img width="700" height="80" src="https://github.com/Babkock/Babkock/blob/main/pics/mymusic.png?raw=true" />
+## <img src="https://github.com/Babkock/Babkock/blob/main/pics/mymusic.png?raw=true" />
 
 All of my music is available on Spotify, Apple Music, Deezer, and other streaming platforms. If you would like to download (or optionally, purchase) any of my albums, you can do so on Bandcamp.
 
@@ -37,7 +37,7 @@ All of my music is available on Spotify, Apple Music, Deezer, and other streamin
 * **[Tantrum Throwers](https://open.spotify.com/artist/6x2K3JghRnqnFdg07SkrN3)** *([Bandcamp](https://tantrumthrowers.bandcamp.com/))*
 * **[Culture Chester](https://open.spotify.com/artist/6id1ZGp3lQNo11vRjEXGlo)** *([Bandcamp](https://culturechester.bandcamp.com/))*
 
-## <img width="700" height="80" src="https://github.com/Babkock/Babkock/blob/main/pics/mycourses.png?raw=true" />
+## <img src="https://github.com/Babkock/Babkock/blob/main/pics/mycourses.png?raw=true" />
 
 These are the repositories, (some with live websites) for the college courses I have completed. All the source code for my final projects and collaborations are available here.
 
@@ -50,7 +50,7 @@ These are the repositories, (some with live websites) for the college courses I 
 * [Advanced C++](https://github.com/Babkock/cis164) - *([Group Project](https://github.com/naertz/CasualMockSkirmish))*
 * [Data Structures](https://github.com/Babkock/cis152) - *([Final Project](https://github.com/Babkock/VideoStore))*
 
-## My Contributions
+## <img src="https://github.com/Babkock/Babkock/blob/main/pics/contributions.png?raw=true" />
 
 These are popular open source projects on GitHub I have contributed to.  If you don't believe me, you can look at the lists of contributors.
 
