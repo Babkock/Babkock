@@ -37,7 +37,7 @@ All of my music is available on Spotify, Apple Music, Deezer, and other streamin
 * **[Tantrum Throwers](https://open.spotify.com/artist/6x2K3JghRnqnFdg07SkrN3)** *([Bandcamp](https://tantrumthrowers.bandcamp.com/))*
 * **[Culture Chester](https://open.spotify.com/artist/6id1ZGp3lQNo11vRjEXGlo)** *([Bandcamp](https://culturechester.bandcamp.com/))*
 
-## My Courses
+## <img width="700" height="80" src="https://github.com/Babkock/Babkock/blob/main/pics/mycourses.png?raw=true" />
 
 These are the repositories, (some with live websites) for the college courses I have completed. All the source code for my final projects and collaborations are available here.
 
