@@ -19,6 +19,7 @@ I wrote all of the code for my website myself in PHP, JavaScript, and Vue. Its s
 <a href="https://www.youtube.com/channel/UCdXmrPRUtsl-6pq83x3FrTQ" target="_blank"><b>YouTube</b></a> &bull;
 <a href="https://babkock.github.io" target="_blank"><b>GitHub Pages</b></a> &bull;
 <a href="https://gitlab.com/Babkock/" target="_blank"><b>GitLab</b></a> &bull;
+<a href="https://codeberg.org/Babkock" target="_blank"><b>Codeberg</b></a> &bull;
 <a href="https://www.twitch.tv/babkock" target="_blank"><b>Twitch</b></a> &bull;
 <a href="https://letterboxd.com/babkock/" target="_blank"><b>Letterboxd</b></a> &bull;
 <a href="https://tannerbabcock.tumblr.com" target="_blank"><b>Tumblr</b></a>
